@@ -1,13 +1,13 @@
 [
     {
         "from": "DGARMS",
-        "to": ["user"],
+        "to": ["AGENT"],
         "title": "AR C7A2",
         "body": "Name: C7A2.	Cartridge: 5.56x45mm Nato.	Capacity: 30.	Fire Mode: Semi, Full.	Adoption: CA, DK, NL.	Origin: Canada."
     },
 	{
         "from": "DGARMS",
-        "to": ["user"],
+        "to": ["AGENT"],
         "title": "HI-Power",
         "body": "Name: Hi-Power.	Cartridge: 9x19mm Parabellum.	Capacity: 13.	Fire Mode: Semi.	Adoption: US, CA, 50+.	Origin: United States of America."
     }
