@@ -1,0 +1,14 @@
+{
+    "serverAddress": "dgarms.gov",
+    "serverName": "DELTA Green Armoury",
+    "iconName": "Armoury.png",
+    "terminalID": "DGARM",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    },
+    "randomSeed": true,
+    
+    "latestKernel": true
+}
