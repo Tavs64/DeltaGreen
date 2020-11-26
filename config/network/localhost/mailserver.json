@@ -19,8 +19,8 @@
     },
     {
         "from": "A-Cell",
-        "to": ["UNCLE_SAM", "admin"],
-        "title": "About passing of Baughman",
-        "body": "It's unfortunate to see an agent pass away, but at least it was of old age..."
+        "to": ["US", "admin"],
+        "title": "Regarding passing of Baughman",
+        "body": "It's unfortunate to see an agent pass away, but at least it was of old age... He was a good man indeed and the last thing we need is his name tarnished. Please send in cleanup ASAP."
     }
 ]
