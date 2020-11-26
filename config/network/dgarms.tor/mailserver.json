@@ -10,5 +10,12 @@
         "to": ["AGENT","user"],
         "title": "HI-Power",
         "body": "Name: Hi-Power.    Cartridge: 9x19mm Parabellum.    Capacity: 13.    Fire Mode: Semi.    Adoption: US, CA, 50+.    Origin: United States of America."
+    },
+    {
+        "from": "DGARMS",
+        "to": ["AGENT","user"],
+        "title": "C14 Timberwolf",
+        "body": "Name: C14 Timberwolf.    Cartridge: .338 Lapua Magnum.    Capacity: 5.    Fire Mode: Bolt.    Adoption: CA.    Origin: Canada."
     }
+]
 ]
