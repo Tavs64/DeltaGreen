@@ -21,5 +21,10 @@
         "userId": "n",
         "password": "n",
         "userName": "debug"
+    },
+    {
+        "userId": "UNCLE SAM",
+        "password": "Password123",
+        "userName": "[Data redacted]"
     }
 ]
