@@ -16,5 +16,11 @@
         "to": ["admin"],
         "title": "Hey Boss",
         "body": "I got the database set up for you, if need anything i will help. Dont worry i wont pry ;)."
+    },
+    {
+        "from": "A-Cell",
+        "to": ["UNCLE_SAM", "admin"],
+        "title": "About passing of Baughman",
+        "body": "It's unfortunate to see an agent pass away, but at least it was of old age..."
     }
 ]
